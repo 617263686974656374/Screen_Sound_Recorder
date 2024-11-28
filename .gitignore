@@ -1,0 +1,5 @@
+.venv/
+ffmpeg/
+build/
+__pycache__
+.idea/
